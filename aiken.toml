@@ -1,0 +1,14 @@
+name = "learn-aiken-course/hello-world"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'learn-aiken-course/hello-world'"
+
+[repository]
+user = "learn-aiken-course"
+project = "hello-world"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.1.0"
+source = "github"
